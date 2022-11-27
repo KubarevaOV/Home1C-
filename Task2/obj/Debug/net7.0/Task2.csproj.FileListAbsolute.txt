@@ -1,0 +1,15 @@
+/Users/dmitrykuklin/Desktop/Home1C#/Task2/bin/Debug/net7.0/Task2
+/Users/dmitrykuklin/Desktop/Home1C#/Task2/bin/Debug/net7.0/Task2.deps.json
+/Users/dmitrykuklin/Desktop/Home1C#/Task2/bin/Debug/net7.0/Task2.runtimeconfig.json
+/Users/dmitrykuklin/Desktop/Home1C#/Task2/bin/Debug/net7.0/Task2.dll
+/Users/dmitrykuklin/Desktop/Home1C#/Task2/bin/Debug/net7.0/Task2.pdb
+/Users/dmitrykuklin/Desktop/Home1C#/Task2/obj/Debug/net7.0/Task2.csproj.AssemblyReference.cache
+/Users/dmitrykuklin/Desktop/Home1C#/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrykuklin/Desktop/Home1C#/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/Users/dmitrykuklin/Desktop/Home1C#/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/Users/dmitrykuklin/Desktop/Home1C#/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
+/Users/dmitrykuklin/Desktop/Home1C#/Task2/obj/Debug/net7.0/Task2.dll
+/Users/dmitrykuklin/Desktop/Home1C#/Task2/obj/Debug/net7.0/refint/Task2.dll
+/Users/dmitrykuklin/Desktop/Home1C#/Task2/obj/Debug/net7.0/Task2.pdb
+/Users/dmitrykuklin/Desktop/Home1C#/Task2/obj/Debug/net7.0/Task2.genruntimeconfig.cache
+/Users/dmitrykuklin/Desktop/Home1C#/Task2/obj/Debug/net7.0/ref/Task2.dll
